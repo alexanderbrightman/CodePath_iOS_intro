@@ -5,7 +5,7 @@ Submitted by: Alexander Brightman
 
 iOS Change Background Color is an app that... changes the background color when a button is pressed. 
 
-Time spent: 1.5 hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -15,16 +15,13 @@ The following **required** functionality is completed:
 - [YES] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://www.loom.com/share/b7a80e00a4c741cebd62da852d547286?sid=5f8fd0aa-7753-4646-bb89-2548e9cfb80f
 
 ## App Brainstorming (Step 4)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I attempted to add to changeBackgroundFunction so that the text color of the labels will change to black or white depending on the brightness of the background through an equation I found online. I came across errors where the UIColor could not be converted correctly. 
 
 ## License
 
